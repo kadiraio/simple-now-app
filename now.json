@@ -1,5 +1,5 @@
 {
-  "type": "static3",
+  "type": "static",
   "env": {
     "NODE_ENV": "production"
   },
