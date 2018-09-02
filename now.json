@@ -1,10 +1,12 @@
 {
-  "type": "static",
+  "type": "static3",
   "env": {
     "NODE_ENV": "production"
   },
   "alias": "simple-now-app.zeit.sh"
 }
+
+
 
 
 
