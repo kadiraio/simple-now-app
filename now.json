@@ -1,6 +1,7 @@
 {
-  "type": "npm",
+  "type": "static",
   "env": {
     "NODE_ENV": "production"
-  }
+  },
+  "alias": "simple-now-app.zeit.sh"
 }
